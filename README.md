@@ -3,7 +3,7 @@
 My name is M Sathvika Sai
 
 
-- ☺️ I'm passionate about development and looking forward to know more about it.
+- ☺️ I'm a passionate developer and looking forward to know more about it.
 - 🔭 Working on improving my skills.
 - 🌱 Currently a C++ learner
 - 👯 I’m looking to collaborate on making different projects that would eventually build my skills.
