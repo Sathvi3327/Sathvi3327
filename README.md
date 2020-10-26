@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Sathvika 
+My name is M Sathvika Sai
 
 
 - ☺️ I'm passionate about development and looking forward to know more about it.
