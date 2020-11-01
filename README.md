@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate **on making different projects that would eventually help me build my skills.**
 
