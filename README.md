@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm M Sathvika Sai</h1>
-<h3 align="center">I'm a passionate developer and looking forward to excel in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathvi3327&label=Profile%20views&color=0e75b6&style=flat" alt="sathvi3327" /> </p>
 
