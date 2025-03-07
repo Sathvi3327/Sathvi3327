@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **something I don't know (So that you can help me know about things more)**
 
-- 📫 How to reach me **gmail: sathvi.mondu3327@gmail.com linkedin: http://www.linkedin.com/in/m-sathvika-sai**
+- 📫 How to reach me linkedin: http://www.linkedin.com/in/m-sathvika-sai**
 
 
 <h3 align="left">Connect with me:</h3>
